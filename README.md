@@ -1,5 +1,13 @@
 # old-school-web
 
-A cli based web browser made with python socket programming
+A cli based client web browser and a server architecture made with python socket programming
 
-**Note**:currently processing unsecure http requests on port 80 (use scanme.nmap.org to test it)
+1. start the localhost server on port 9000
+> python server.py 
+
+2. request to server with client brower by running client browser as:
+> python client-browser.py
+(enter local or any ip and port no.)
+
+
+**Note**: unsecure webpage can easily be accessed with cli browser
