@@ -1,6 +1,6 @@
 # old-school-web
 
-**A cli based client web browser and a server architecture made with python socket programming that lets you browse the web like the old terminal way**
+##A cli based client web browser and a server architecture made with python socket programming that lets you browse the web like the old terminal way##
 
 ### Dependencies:
 - Python
